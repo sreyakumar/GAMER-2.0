@@ -1,0 +1,11 @@
+langchain_core
+langgraph
+langsmith
+aind_data_access_api
+sentence_transformers
+pydantic
+langchain_aws
+langchain_experimental
+bson
+boto3
+pydantic
